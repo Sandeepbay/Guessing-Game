@@ -1,0 +1,21 @@
+Guessing Game 
+
+I think the number that has to be guessed is random till the maximum number
+
+Input - Ask for a maximum number
+
+Input - enter your first guess - if its lesser than the number to be guessed it should say too low.
+                               
+					 - if the number is higher than that of the number it should display too high , try a lower number.    
+
+					 - When we get the number that we found it should display a message which says IT TOOK YOU N GUESSES.  
+
+PS - If u get bored of this game and u want it to end it abruptly , u have to press a certain key which will stop the game. 
+
+
+
+Solution- 
+
+As we dont know how much iteration has to be carried out we will be using while loop. 
+
+We will be using the "break" option to end the game abruptly too.
